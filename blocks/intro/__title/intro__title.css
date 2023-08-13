@@ -1,18 +1,18 @@
 .intro__title {
-    margin: 0;
-    font-family: 'Inter';
-    font-size: 54px;
-    font-weight: 900;
-    line-height: 1.07;
-    font-style: normal;
-    text-align: left;
-    color: #ffffff;
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 1.07;
+  font-style: normal;
+  text-align: left;
+  color: #ffffff;
 }
 
-  /* 320px-767px*/
-  @media screen and (max-width: 767px) {
-    .intro__title {
-        font-size: 35px;
-        line-height: 1.09;
+/* 320px-767px*/
+@media screen and (max-width: 767px) {
+  .intro__title {
+    font-size: 35px;
+    line-height: 1.09;
   }
-  }
+}
