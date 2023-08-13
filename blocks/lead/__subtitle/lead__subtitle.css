@@ -19,12 +19,6 @@
   }
 }
 
-
-/* 768px-1023px*/
-@media screen and (max-width: 1023px) {
-  .lead__subtitle {}
-}
-
 /* 320px-767px*/
 @media screen and (max-width: 767px) {
   .lead__subtitle {

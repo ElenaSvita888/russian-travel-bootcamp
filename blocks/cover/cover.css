@@ -15,12 +15,12 @@
   }
 }
 
- /* 768px-1023px*/
+/* 768px-1023px*/
 @media screen and (max-width: 1023px) {
   .cover {
     max-width: 768px;
     min-height: 480px;
-    }
+  }
 }
 
 /* 320px-767px*/
